@@ -1,6 +1,6 @@
 # Evelpidon Core Extensions
 
-Collection of various core extensions to Ruby classes.
+Collection of various extensions to Ruby core classes.
 
 ## Overview
 
