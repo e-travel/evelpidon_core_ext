@@ -33,8 +33,7 @@ require 'evelpidon_core_ext'
 
 ## Usage
 
-Validators are *not* automatically loaded. You can require the validators you need either explicitly one-by-one
-or all of them. So for example :
+Extensions are *not* automatically loaded. You can require them explicitly one-by-one or all of them. So for example :
 
 ```ruby
 # Load only extensions to Hash :
