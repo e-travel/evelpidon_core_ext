@@ -1,5 +1,8 @@
 # Evelpidon Core Extensions
 
+[![Project Status](http://stillmaintained.com/e-travel/evelpidon_core_ext.png)](http://stillmaintained.com/e-travel/evelpidon_core_ext)
+[![Build Status](https://secure.travis-ci.org/e-travel/evelpidon_core_ext.png)](http://travis-ci.org/e-travel/evelpidon_core_ext)
+
 Collection of various extensions to Ruby core classes.
 
 ## Overview
