@@ -9,6 +9,8 @@ Collection of various extensions to Ruby core classes.
 
 * Hash
   * `#underscore_keys`
+* Numeric
+  * `#within_delta?`
 
 ## Installation
 
